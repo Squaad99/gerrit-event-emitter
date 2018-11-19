@@ -42,6 +42,6 @@
   "dependencies": {
     "eventemitter2": "~0.4.13",
     "inflection": "~1.3.5",
-    "gerrit-stream": "0.0.1"
+    "gerrit-stream": "https://github.com/Squaad99/gerrit-stream#wip_private_events"
   }
 }
